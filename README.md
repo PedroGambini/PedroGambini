@@ -1,6 +1,7 @@
 ## Olá! Me chamo Pedro Gambini e estou estudando desenvolvimento back-end!
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGambini)](https://github.com/PedroGambini/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
