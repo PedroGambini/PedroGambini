@@ -12,6 +12,8 @@
   <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
+##
+
 ![](https://github-readme-stats.vercel.app/api?username=pedrogambini&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pedrogambini&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogambini&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
