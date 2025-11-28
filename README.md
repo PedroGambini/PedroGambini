@@ -1,6 +1,12 @@
 ## Olá! Me chamo Pedro Gambini e estou estudando desenvolvimento back-end!
 
-# 💻 Tech Stack:
+## 📊 Github Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=pedrogambini&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pedrogambini&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogambini&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 💻 Tech Stack:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -11,12 +17,6 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
-
-##
-
-![](https://github-readme-stats.vercel.app/api?username=pedrogambini&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pedrogambini&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogambini&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐 Contato:
 <div> 
